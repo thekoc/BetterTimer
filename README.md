@@ -1,2 +1,4 @@
 # BetterTimer
-An android time manage tool. (hopefully)
+An Android time manage tool.
+
+
