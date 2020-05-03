@@ -5,13 +5,13 @@ You can make new tasks (to-do list), start a timer for a task. After you finish 
 
 ## Some Screenshots
 ### To-do List
-![](screenshots/newplan.jpg)
+<img src="./screenshots/newplan.jpg" width="20%">
 
 ### Study Record
-![](screenshots/studyrecord.jpg)
+<img src="./screenshots/newplan.jpg" width="20%">
 
 ### Sliding Tab
-![](screenshots/slide.jpg)
+<img src="./screenshots/slide.jpg" width="20%">
 
 ### Timer
-![](screenshots/timer.jpg)
+<img src="./screenshots/timer.jpg" width="20%">
